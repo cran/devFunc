@@ -1,0 +1,11 @@
+0ce8c031afc1b43df8c3855451e509c6 *DESCRIPTION
+5f7d49408fd0833516da7ed7b176b155 *NAMESPACE
+87e439159a500320dd7ff6796fd284b1 *R/checkFuncs.R
+4456222b9f162a88900e7738e5bb84c3 *man/checkCharVec.Rd
+ab326671c878eb8bd1513bd98082de29 *man/checkIntVec.Rd
+ddd329a5b501b06e0702ba15d8379ca1 *man/checkLength.Rd
+d0aa4c9872feec85bf3d320fd42bb4bb *man/checkLogicVec.Rd
+0bd68032e30cd332ea505864ce578028 *man/checkNumOrIntVec.Rd
+6b74df60b9352ea4de38653b514aa80e *man/checkNumVec.Rd
+d68dc42811ed0b8afef8a1af63b2207a *man/checkRanges.Rd
+1459119e3b324161846631780ab40648 *man/checkValues.Rd
